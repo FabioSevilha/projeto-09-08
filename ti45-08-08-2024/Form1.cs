@@ -45,5 +45,10 @@ namespace ti45_08_08_2024
             Colaboradores colaboradores = new Colaboradores();
             colaboradores.Show();
         }
+
+        private void cadastrosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -16,5 +16,10 @@ namespace ti45_08_08_2024
         {
             InitializeComponent();
         }
+
+        private void Fornecedor_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
